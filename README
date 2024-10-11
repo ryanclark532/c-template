@@ -1,0 +1,3 @@
+Ryans Basic C++ project template. The idea is that you'd store external dependencies in the "libs" folder.
+You'd then update the libs command to build external dependencies, and move the build artefacts to the include folder.
+You also need to copy all relevant header files to the include directory
